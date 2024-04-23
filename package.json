@@ -1,6 +1,6 @@
 {
-  "name": "m1sh-word-count",
-  "version": "1.0.0",
+  "name": "m1sh-word-count-app",
+  "version": "1.0.2",
   "description": "word count",
   "main": "index.js",
   "type": "module",
